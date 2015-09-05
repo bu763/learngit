@@ -1,0 +1,1 @@
+this is a class b for test.
