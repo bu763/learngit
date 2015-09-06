@@ -4,4 +4,7 @@ package b;
 
 public class B {
 
+	public void main(){
+	}
+
 }
